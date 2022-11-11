@@ -1,0 +1,2 @@
+# fuwamon.git.io
+test
