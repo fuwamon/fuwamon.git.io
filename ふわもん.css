@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+body{
+    margin: 0px;
+    font-family: 'Yuji Boku', serif;
+}
+
+.heder{
+    background-color:aqua;
+    height: 100px;
+}
+.main{
+    background-color:rgb(245, 154, 154);
+    height: 1000px;
+}
+.heder-logo{
+    list-style: none;
+    font-size: 24px;
+    margin: 20px;
+    float: left;
+    color: #444;
+}
+.自己紹介{
+    padding-left: 500px;
+    font-size: 20px;
+    float: left;
+    color: #333;
+    text-decoration: none;
+}
+.ラインスタンプ{
+    padding-left: 20px;
+    font-size: 20px;
+    float: left;
+    color: #333;
+    text-decoration: none;
+}
+.under{
+    background-color:rgb(206, 234, 149);
+    height:100px;
+}
+.てきすと{
+    font-size: 23px;
+    margin-left: 150px;
+    padding-top: 40px;
+    float: left;
+}
+.foto1{
+    float:right;
+    padding-top: 20px;
+    width: 50px;
+    height: 50px;
+}
+.foto{
+    width: 1250px;
+    height: auto;
+    padding-left: 110px;
+}
+.プログラム{
+    margin: 0px;
+    padding-top: 30px;
+    font-size: 20px;
+    float: left;
+    color: #444;
+    text-decoration: none;
+}
+#プログラム1{
+    color: rgb(91, 133, 250);
+}
+.動画{
+    width: 1250px;
+    height: auto;
+    padding-left: 110px;
+}
+
